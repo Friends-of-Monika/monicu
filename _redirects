@@ -1,3 +1,24 @@
+# /: Root namespace
+# The root namespace should have the most necessary things for easiest access.
+/mas               https://github.com/Monika-After-Story/MonikaModDev
+/gifts             https://github.com/Monika-After-Story/MonikaModDev/wiki/All-Features-%5BSPOILERS%5D#gifts
+
+
+# /c/: Content namespace
+# The content namespace should have links to MAS content (created by developers,
+# Friends of Monika, or other people; anything works.)
+
+/c/rpc            https://github.com/Friends-of-Monika/mas-presence
+/c/say            https://github.com/Friends-of-Monika/mas-saysomething
+/c/otter          https://github.com/Friends-of-Monika/otter-spritepacks
+
+
+# Compatibility section: previously these shortcuts were in use, so we retain
+# them in order not to break links. Back then they were not sorted anyhow.
+# Please do not try to 'optimize' this section and set aliases; these URLs
+# are preserved as is intentionally, do not assign these paths to aliases
+# even if they are bitwise identical copies.
+
 /friends          https://github.com/friends-of-monika
 /discord          https://discord.gg/NmtzTPZnmj
 /rpc              https://github.com/friends-of-monika/mas-presence
