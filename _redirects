@@ -2,8 +2,28 @@
 
 # The root namespace should have the most necessary things for easiest access.
 
-/mas               https://github.com/Monika-After-Story/MonikaModDev
-/gifts             https://github.com/Monika-After-Story/MonikaModDev/wiki/All-Features-%5BSPOILERS%5D#gifts
+/mas              https://github.com/Monika-After-Story/MonikaModDev
+
+
+# /w/: MAS wiki namespace
+
+# The MAS wiki namespace should have links to MAS Wiki pages.
+
+/w/gifts          https://github.com/Monika-After-Story/MonikaModDev/wiki/All-Features-%5BSPOILERS%5D#gifts
+
+/w/faq            https://github.com/Monika-After-Story/MonikaModDev/wiki/FAQ#frequently-asked-questions-faq
+/w/log            https://github.com/Monika-After-Story/MonikaModDev/wiki/FAQ#how-to-view-your-log-files
+/w/steam          https://github.com/Monika-After-Story/MonikaModDev/wiki/FAQ#how-do-i-go-from-a-steam-to-a-non-steam-build
+/w/backup         https://github.com/Monika-After-Story/MonikaModDev/wiki/FAQ#i-want-to-back-up-my-persistent
+/w/sprite         https://github.com/Monika-After-Story/MonikaModDev/wiki/Adding-Sprite-Objects
+/w/restore        https://github.com/Monika-After-Story/MonikaModDev/wiki/FAQ#i-need-to-restore-an-older-persistent
+/w/transfer       https://github.com/Monika-After-Story/MonikaModDev/wiki/FAQ#i-want-to-transfer-monika-to-another-computer
+
+/w/logs           /w/log
+/w/backups        /w/backup
+/w/sprites        /w/sprite
+/w/spritepack     /w/sprite
+/w/spritepacks    /w/sprite
 
 
 # /c/: content namespace
@@ -31,3 +51,4 @@
 /mas/gifts        https://github.com/Monika-After-Story/MonikaModDev/wiki/All-Features-%5BSPOILERS%5D#gifts
 /links            https://github.com/Friends-of-Monika/monicu#-list-of-shortcuts
 /otter/sprites    https://github.com/Friends-of-Monika/otter-spritepacks
+/gifts            https://github.com/Monika-After-Story/MonikaModDev/wiki/All-Features-%5BSPOILERS%5D#gifts
