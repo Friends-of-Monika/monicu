@@ -58,7 +58,7 @@ inappropriate content. Please keep in mind that deletion of links is an
 [3]: https://www.netlify.com/gdpr-ccpa/
 [4]: https://api.netlify.com/api/v1/badges/2c803c94-db9c-40bc-9a06-005361a0d873/deploy-status
 [5]: https://app.netlify.com/sites/monicu/deploys
-[6]: CONTRIBUTING.md
+[6]: LINKS.md
 [7]: _redirects
 [8]: https://en.wikipedia.org/wiki/Link_rot
 [9]: https://github.com/Friends-of-Monika/monicu/issues/new
