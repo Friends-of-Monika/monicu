@@ -14,6 +14,7 @@
 /w/faq            https://github.com/Monika-After-Story/MonikaModDev/wiki/FAQ#frequently-asked-questions-faq
 /w/log            https://github.com/Monika-After-Story/MonikaModDev/wiki/FAQ#how-to-view-your-log-files
 /w/steam          https://github.com/Monika-After-Story/MonikaModDev/wiki/FAQ#how-do-i-go-from-a-steam-to-a-non-steam-build
+/w/coding         https://github.com/Monika-After-Story/MonikaModDev/wiki/Dialogue-Coding
 /w/backup         https://github.com/Monika-After-Story/MonikaModDev/wiki/FAQ#i-want-to-back-up-my-persistent
 /w/sprite         https://github.com/Monika-After-Story/MonikaModDev/wiki/Adding-Sprite-Objects
 /w/restore        https://github.com/Monika-After-Story/MonikaModDev/wiki/FAQ#i-need-to-restore-an-older-persistent
@@ -24,6 +25,8 @@
 /w/sprites        /w/sprite
 /w/spritepack     /w/sprite
 /w/spritepacks    /w/sprite
+/w/submod         /w/coding
+/w/submodding     /w/coding
 
 
 # /c/: content namespace
