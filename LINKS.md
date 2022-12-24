@@ -2,27 +2,41 @@
 
 ## 🌳 Root namespace
 
-| Shortcut | URL                                                                                       |
-|----------|-------------------------------------------------------------------------------------------|
-| /mas     | https://github.com/Monika-After-Story/MonikaModDev                                        |
-| /gifts   | https://github.com/Monika-After-Story/MonikaModDev/wiki/All-Features-%5BSPOILERS%5D#gifts |
+| Shortcut | Redirect URL                                       |
+|----------|----------------------------------------------------|
+| /mas     | https://github.com/Monika-After-Story/MonikaModDev |
+
+## 📖 MAS wiki namespace
+
+| Shortcut    | Redirect URL                                                                                              |
+|-------------|-----------------------------------------------------------------------------------------------------------|
+| /w/faq      | https://github.com/Monika-After-Story/MonikaModDev/wiki/FAQ#frequently-asked-questions-faq                |
+| /w/log      | https://github.com/Monika-After-Story/MonikaModDev/wiki/FAQ#how-to-view-your-log-files                    |
+| /w/gifts    | https://github.com/Monika-After-Story/MonikaModDev/wiki/All-Features-%5BSPOILERS%5D#gifts                 |
+| /w/steam    | https://github.com/Monika-After-Story/MonikaModDev/wiki/FAQ#how-do-i-go-from-a-steam-to-a-non-steam-build |
+| /w/coding   | https://github.com/Monika-After-Story/MonikaModDev/wiki/Dialogue-Coding                                   |
+| /w/backup   | https://github.com/Monika-After-Story/MonikaModDev/wiki/FAQ#i-want-to-back-up-my-persistent               |
+| /w/sprite   | https://github.com/Monika-After-Story/MonikaModDev/wiki/Adding-Sprite-Objects                             |
+| /w/restore  | https://github.com/Monika-After-Story/MonikaModDev/wiki/FAQ#i-need-to-restore-an-older-persistent         |
+| /w/transfer | https://github.com/Monika-After-Story/MonikaModDev/wiki/FAQ#i-want-to-transfer-monika-to-another-computer |
 
 ## 🎁 Content namespace
 
-| Shortcut | URL                                                         |
-|----------|-------------------------------------------------------------|
-| /c/rpc   | https://github.com/Friends-of-Monika/mas-presence           |
-| /c/say   | https://github.com/Friends-of-Monika/mas-saysomething       |
-| /c/otter | https://github.com/Friends-of-Monika/otter-spritepacks      |
+| Shortcut | Redirect URL                                           |
+|----------|--------------------------------------------------------|
+| /c/rpc   | https://github.com/Friends-of-Monika/mas-presence      |
+| /c/say   | https://github.com/Friends-of-Monika/mas-saysomething  |
+| /c/otter | https://github.com/Friends-of-Monika/otter-spritepacks |
 
 ## 📜 Compatibility namespace
 
-| Shortcut       | URL                                                                                       |
+| Shortcut       | Redirect URL                                                                              |
 |----------------|-------------------------------------------------------------------------------------------|
-| /friends       | https://github.com/friends-of-monika                                                      |
-| /discord       | https://discord.gg/NmtzTPZnmj                                                             |
 | /rpc           | https://github.com/friends-of-monika/mas-presence                                         |
 | /say           | https://github.com/friends-of-monika/mas-saysomething                                     |
-| /mas/gifts     | https://github.com/Monika-After-Story/MonikaModDev/wiki/All-Features-%5BSPOILERS%5D#gifts |
 | /links         | https://github.com/Friends-of-Monika/monicu#-list-of-shortcuts                            |
+| /gifts         | https://github.com/Monika-After-Story/MonikaModDev/wiki/All-Features-%5BSPOILERS%5D#gifts |
+| /friends       | https://github.com/friends-of-monika                                                      |
+| /discord       | https://discord.gg/NmtzTPZnmj                                                             |
+| /mas/gifts     | https://github.com/Monika-After-Story/MonikaModDev/wiki/All-Features-%5BSPOILERS%5D#gifts |
 | /otter/sprites | https://github.com/Friends-of-Monika/otter-spritepacks                                    |
