@@ -4,6 +4,7 @@
 
 | Shortcut | Redirect URL                                       |
 |----------|----------------------------------------------------|
+| /        | https://github.com/Friends-of-Monika/monicu#readme |
 | /mas     | https://github.com/Monika-After-Story/MonikaModDev |
 
 ## 📖 MAS wiki namespace
