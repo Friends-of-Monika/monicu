@@ -25,6 +25,7 @@
 
 | Shortcut | Redirect URL                                                                              |
 |----------|-------------------------------------------------------------------------------------------|
+| /c/wtf   | https://github.com/Friends-of-Monika/mas-wtf                                              |
 | /c/rpc   | https://github.com/Friends-of-Monika/mas-presence                                         |
 | /c/say   | https://github.com/Friends-of-Monika/mas-saysomething                                     |
 | /c/rooms | https://github.com/tw4449-s-MAS-Submods/tw4449-Custom-Room-Selection-Pack-Main-Repository |
