@@ -35,6 +35,7 @@
 # The content namespace should have links to MAS content (created by developers,
 # Friends of Monika, or other people; anything works.)
 
+/c/wtf            https://github.com/Friends-of-Monika/mas-wtf
 /c/rpc            https://github.com/Friends-of-Monika/mas-presence
 /c/say            https://github.com/Friends-of-Monika/mas-saysomething
 
