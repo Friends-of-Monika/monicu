@@ -19,7 +19,8 @@ available globally~
 Previously, mon.icu domain was used to host Moniry, a Monika pictures gallery,
 however, Friends of Monika have repurposed this domain for use as a link 
 shortener. Moniry is currently in headless REST API state hosted at 
-[api.moni.pics][10], you can find source code for it [here][11] and [here][12].
+[api.moni.pics][10] (whoops, not anymore!), you can find source code for 
+it [here][11] and [here][12].
 
 ### Does mon.icu collect user data, can it track me?
 
