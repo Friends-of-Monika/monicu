@@ -2,10 +2,11 @@
 
 ## 🌳 Root namespace
 
-| Shortcut | Redirect URL                                       |
-|----------|----------------------------------------------------|
-| /        | https://github.com/Friends-of-Monika/monicu#readme |
-| /mas     | https://github.com/Monika-After-Story/MonikaModDev |
+| Shortcut | Redirect URL                                                    |
+|----------|-----------------------------------------------------------------|
+| /        | https://github.com/Friends-of-Monika/monicu#readme              |
+| /mas     | https://github.com/Monika-After-Story/MonikaModDev              |
+| /awesome | https://github.com/Friends-of-Monika/mas-awesome-content#readme |
 
 ## 📖 MAS wiki namespace
 
