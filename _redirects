@@ -7,6 +7,16 @@
 /awesome          https://github.com/Friends-of-Monika/mas-awesome-content#readme
 
 
+# /jsc/: JSON Schema namespace
+
+# Here are the MAS submod header and spritepack header file schemas
+
+/jsc/submod       https://raw.githubusercontent.com/Friends-of-Monika/mas-header-schema/master/header.schema.json
+/jsc/acs-split    https://raw.githubusercontent.com/Friends-of-Monika/mas-sprite-schema/master/acs-split.schema.json
+/jsc/acs          https://raw.githubusercontent.com/Friends-of-Monika/mas-sprite-schema/master/acs.schema.json
+/jsc/clothes      https://raw.githubusercontent.com/Friends-of-Monika/mas-sprite-schema/master/clothes.schema.json
+/jsc/hair         https://raw.githubusercontent.com/Friends-of-Monika/mas-sprite-schema/master/hair.schema.json
+
 # /w/: MAS wiki namespace
 
 # The MAS wiki namespace should have links to MAS Wiki pages.
