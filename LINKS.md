@@ -8,6 +8,16 @@
 | /mas     | https://github.com/Monika-After-Story/MonikaModDev              |
 | /awesome | https://github.com/Friends-of-Monika/mas-awesome-content#readme |
 
+## 🔍 JSON Schema namespace
+
+| Shortcut       | Redirect URL                                                                                       |
+|----------------|----------------------------------------------------------------------------------------------------|
+| /jsc/submod    | https://raw.githubusercontent.com/Friends-of-Monika/mas-header-schema/master/header.schema.json    |
+| /jsc/acs-split | https://raw.githubusercontent.com/Friends-of-Monika/mas-sprite-schema/master/acs-split.schema.json |
+| /jsc/acs       | https://raw.githubusercontent.com/Friends-of-Monika/mas-sprite-schema/master/acs.schema.json       |
+| /jsc/clothes   | https://raw.githubusercontent.com/Friends-of-Monika/mas-sprite-schema/master/clothes.schema.json   |
+| /jsc/hair      | https://raw.githubusercontent.com/Friends-of-Monika/mas-sprite-schema/master/hair.schema.json      |
+
 ## 📖 MAS wiki namespace
 
 | Shortcut    | Redirect URL                                                                                              |
