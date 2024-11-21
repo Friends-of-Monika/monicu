@@ -32,6 +32,12 @@
 | /w/restore  | https://github.com/Monika-After-Story/MonikaModDev/wiki/FAQ#i-need-to-restore-an-older-persistent         |
 | /w/transfer | https://github.com/Monika-After-Story/MonikaModDev/wiki/FAQ#i-want-to-transfer-monika-to-another-computer |
 
+## 💿 MAS Installer links
+
+| Shortcut    | Redirect URL                                                                                                  |
+|-------------|---------------------------------------------------------------------------------------------------------------|
+| /i/mac      | https://raw.githubusercontent.com/Friends-of-Monika/mac-install-script/refs/heads/master/get-run-installer.sh |
+
 ## 🎁 Content namespace
 
 | Shortcut | Redirect URL                                                                              |

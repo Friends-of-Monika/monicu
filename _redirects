@@ -40,6 +40,10 @@
 /w/submod         /w/coding
 /w/submodding     /w/coding
 
+# /i/: MAS installer links
+
+# The MAS installer links namespace should have links to installer scripts for easy in-terminal installs.
+/i/mac            https://raw.githubusercontent.com/Friends-of-Monika/mac-install-script/refs/heads/master/get-run-installer.sh
 
 # /c/: content namespace
 
