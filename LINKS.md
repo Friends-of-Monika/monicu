@@ -57,6 +57,6 @@
 | /links         | https://github.com/Friends-of-Monika/monicu#-list-of-shortcuts                            |
 | /gifts         | https://github.com/Monika-After-Story/MonikaModDev/wiki/All-Features-%5BSPOILERS%5D#gifts |
 | /friends       | https://github.com/friends-of-monika                                                      |
-| /discord       | https://discord.gg/NmtzTPZnmj                                                             |
+| /discord       | https://discord.gg/sRhRUSmg5k                                                             |
 | /mas/gifts     | https://github.com/Monika-After-Story/MonikaModDev/wiki/All-Features-%5BSPOILERS%5D#gifts |
 | /otter/sprites | https://github.com/Friends-of-Monika/otter-spritepacks                                    |
