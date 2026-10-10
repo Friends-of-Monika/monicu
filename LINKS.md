@@ -6,7 +6,7 @@
 |----------|-----------------------------------------------------------------|
 | /        | https://github.com/Friends-of-Monika/monicu#readme              |
 | /mas     | https://github.com/Monika-After-Story/MonikaModDev              |
-| /awesome | https://github.com/Friends-of-Monika/mas-awesome-content#readme |
+| /discord | https://discord.gg/sRhRUSmg5k                                   |
 
 ## 🔍 JSON Schema namespace
 
@@ -52,11 +52,11 @@
 
 | Shortcut       | Redirect URL                                                                              |
 |----------------|-------------------------------------------------------------------------------------------|
-| /rpc           | https://github.com/friends-of-monika/mas-presence                                         |
-| /say           | https://github.com/friends-of-monika/mas-saysomething                                     |
-| /links         | https://github.com/Friends-of-Monika/monicu#-list-of-shortcuts                            |
-| /gifts         | https://github.com/Monika-After-Story/MonikaModDev/wiki/All-Features-%5BSPOILERS%5D#gifts |
+| /awesome       | https://github.com/Friends-of-Monika/mas-awesome-content#readme                           |
 | /friends       | https://github.com/friends-of-monika                                                      |
-| /discord       | https://discord.gg/sRhRUSmg5k                                                             |
+| /gifts         | https://github.com/Monika-After-Story/MonikaModDev/wiki/All-Features-%5BSPOILERS%5D#gifts |
+| /links         | https://github.com/Friends-of-Monika/monicu#-list-of-shortcuts                            |
 | /mas/gifts     | https://github.com/Monika-After-Story/MonikaModDev/wiki/All-Features-%5BSPOILERS%5D#gifts |
 | /otter/sprites | https://github.com/Friends-of-Monika/otter-spritepacks                                    |
+| /rpc           | https://github.com/friends-of-monika/mas-presence                                         |
+| /say           | https://github.com/friends-of-monika/mas-saysomething                                     |
