@@ -59,6 +59,11 @@
 
 /c/otter          https://github.com/Friends-of-Monika/otter-spritepacks
 
+# /g/: generic namespace
+
+# The generic namespace is designed specifically to house links without a strict structure.
+# Contributors can pick any link format, structure, etc. as long as it is under /g/* and is not already taken.
+
 
 # /*: compatibility namespace
 
