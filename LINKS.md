@@ -54,7 +54,8 @@ These links are "featured", in sense that they are significant enough to be outs
 ## 🗄️ Link archive
 
 These links are preserved to prevent link rot. They most likely do not fit the current link conventions, 
-but we will keep them to ensure existing links do not break.
+but we will keep them to ensure existing links do not break. It is **forbidden** to edit these links, 
+move them to another namespace, remove (without a *very* good reason), etc.
 
 | Shortcut       | Redirect URL                                                                              |
 |----------------|-------------------------------------------------------------------------------------------|
