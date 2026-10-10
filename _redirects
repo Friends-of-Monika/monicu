@@ -5,6 +5,7 @@
 /                 https://github.com/Friends-of-Monika/monicu#readme
 /mas              https://github.com/Monika-After-Story/MonikaModDev
 /awesome          https://github.com/Friends-of-Monika/mas-awesome-content#readme
+/friends          https://github.com/friends-of-monika
 
 
 # /jsc/: JSON Schema namespace
@@ -67,7 +68,6 @@
 # are preserved as is intentionally, do not assign these paths to aliases
 # even if they are bitwise identical copies.
 
-/friends          https://github.com/friends-of-monika
 /discord          https://discord.gg/sRhRUSmg5k
 /rpc              https://github.com/friends-of-monika/mas-presence
 /say              https://github.com/friends-of-monika/mas-saysomething
